@@ -1,6 +1,6 @@
 
-##RATreeViewChange
-  在RATreeView的基础上，修改模型数据结构与界面展示
+##HeadScrollerView
+   展示轮播图滚动放大效果
 
 
 ###运行效果如下：
